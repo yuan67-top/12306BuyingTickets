@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//UnitTest/TestAll.py=utf-8
+encoding//agency/agency_tools.py=utf8
+encoding//agency/cdn_utils.py=utf8
+encoding//config/AutoSynchroTime.py=utf-8
+encoding//config/TicketEnmu.py=utf-8
+encoding//config/configCommon.py=utf-8
+encoding//config/emailConf.py=utf8
+encoding//config/logger.py=utf-8
+encoding//config/pushbearConf.py=utf8
+encoding//config/serverchanConf.py=utf8
+encoding//config/urlConf.py=utf-8
+encoding//init/login.py=utf-8
+encoding//init/select_ticket_info.py=utf-8
+encoding/TickerConfig.py=utf-8
+encoding/run.py=utf-8
